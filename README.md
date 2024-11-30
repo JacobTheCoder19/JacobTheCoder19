@@ -15,7 +15,7 @@
   - [Project #1](https://github.com)
   - [Project #2](https://github.com/)
   - [Project #3](https://github.com)
-- <b>Programming Language</b>
+- <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
   - [Project #1](https://github.com)
 
 <h2>🤖 Robotic inventions</h2>
