@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Title of Project 1</b>
+- <b>Digital Assistant - Java Application</b>
   - [Name and link to project](https:/)
-- <b>Title of big projet 2</b>
+- <b>Control Your Computer with hand - Python Application that uses AI hand tracking</b>
   - [Name and link to project](https:) 
-- <b>Programming language</b>
+- <b>C++ Projects</b>
   - [Project #1](https://)
   - [Project #2](https://)
   - [Project #3](https://)
   - [Project #4](https://githu)
-- <b>Programming Language</b>
+- <b>Java Projects</b>
   - [Project #1](https://github.com)
   - [Project #2](https://github.com/)
   - [Project #3](https://github.com)
