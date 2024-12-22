@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Digital Assistant - Java Application</b>
-  - [Name and link to project](https:/)
+  - [Digital Assistant(JAVA) - By Jacob Graham](https://github.com/JacobTheCoder19/Digital-assistant-written-in-Java)
 - <b>Control Your Computer with hand - Python Application that uses AI hand tracking</b>
   - [Name and link to project](https:) 
 - <b>C++ Projects</b>
