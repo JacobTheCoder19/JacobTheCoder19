@@ -5,7 +5,7 @@
 - <b>Digital Assistant - Java Application</b>
   - [Digital Assistant With GUI](https://github.com/JacobTheCoder19/Digital-assistant-written-in-Java)
 - <b>Control Your Computer with hand - Python Application that uses AI hand tracking</b>
-  - [Name and link to project](https:) 
+  - [Control Computer With Hand]([https:](https://github.com/JacobTheCoder19/Control-Computer-With-Hand)) 
 - <b>C++ Projects</b>
   - [Project #1](https://)
   - [Project #2](https://)
