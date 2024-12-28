@@ -7,10 +7,10 @@
 - <b>Control Your Computer with hand - Python Application that uses AI hand tracking</b>
   - [Control Computer With Hand](https://github.com/JacobTheCoder19/Control-Computer-With-Hand) 
 - <b>C++ Projects</b>
-  - [Project #1](https://)
-  - [Project #2](https://)
-  - [Project #3](https://)
-  - [Project #4](https://githu)
+  - [ UNAVAILABLE (IN PROGRESS)](https://)
+  - [UNAVAILABLE (IN PROGRESS)](https://)
+  - [UNAVAILABLE (IN PROGRESS)](https://)
+  - [UNAVAILABLE (IN PROGRESS)](https://githu)
 - <b>Java Projects</b>
   - [Project #1](https://github.com)
   - [Project #2](https://github.com/)
