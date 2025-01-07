@@ -12,7 +12,7 @@
   - [UNAVAILABLE (IN PROGRESS)](https://)
   - [UNAVAILABLE (IN PROGRESS)](https://githu)
 - <b>Java Projects</b>
-  - [Project #1](https://github.com)
+  - [To-do list Application](https://github.com/JacobTheCoder19/ToDoListInJava/tree/main)
   - [Project #2](https://github.com/)
   - [Project #3](https://github.com)
 - <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
