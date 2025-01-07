@@ -13,7 +13,7 @@
   - [UNAVAILABLE (IN PROGRESS)](https://githu)
 - <b>Java Projects</b>
   - [To-do list Application](https://github.com/JacobTheCoder19/ToDoListInJava/tree/main)
-  - [Project #2](https://github.com/)
+  - [Birthday Guesser](https://github.com/JacobTheCoder19/Birthday_Guesser)
   - [Project #3](https://github.com)
 - <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
   - [Project #1](https://github.com)
