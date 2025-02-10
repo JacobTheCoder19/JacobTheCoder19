@@ -14,17 +14,17 @@
 - <b>Java Projects</b>
   - [To-do list Application](https://github.com/JacobTheCoder19/ToDoListInJava/tree/main)
   - [Birthday Guesser](https://github.com/JacobTheCoder19/Birthday_Guesser)
-  - [Project #3](https://github.com)
+  - [ UNAVAILABLE (IN PROGRESS)](https://)
 - <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
-  - [Project #1](https://github.com)
+  - [ UNAVAILABLE (IN PROGRESS)](https://)
 
 <h2>🤖 Robotic inventions</h2>
 
-- [Project #1](https://w)
-- [Project #2](https://ww)
-- [Project #3](https://www)
-- [Project #4](https://www=)
-- [Project #5](https://www.y)
+- [ UNAVAILABLE (IN PROGRESS)](https://)
+- [ UNAVAILABLE (IN PROGRESS)](https://)
+- [ UNAVAILABLE (IN PROGRESS)](https://)
+- [ UNAVAILABLE (IN PROGRESS)](https://)
+- [ UNAVAILABLE (IN PROGRESS)](https://)
 
 <h2> 😎 Connect with me:</h2>
 
