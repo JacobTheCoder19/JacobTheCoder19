@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Digital Assistant - Java Application</b>
-  - [Digital Assistant With GUI](https://github.com/JacobTheCoder19/Digital-assistant-written-in-Java)
 - <b>Control Your Computer with hand - Python Application that uses AI hand tracking</b>
   - [Control Computer With Hand](https://github.com/JacobTheCoder19/Control-Computer-With-Hand) 
 - <b>C++ Projects</b>
@@ -14,7 +12,7 @@
 - <b>Java Projects</b>
   - [To-do list Application](https://github.com/JacobTheCoder19/ToDoListInJava/tree/main)
   - [Birthday Guesser](https://github.com/JacobTheCoder19/Birthday_Guesser)
-  - [ UNAVAILABLE (IN PROGRESS)](https://)
+  - [Digital Assistant With GUI](https://github.com/JacobTheCoder19/Digital-assistant-written-in-Java)
 - <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
   - [ UNAVAILABLE (IN PROGRESS)](https://)
 
