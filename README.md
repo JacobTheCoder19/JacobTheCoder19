@@ -5,7 +5,7 @@
 - <b>Python Projects</b>
   - [My Own Personal Programming Language](https://github.com/JacobTheCoder19/Personal-Programming-Language)
   - [Control Computer With Hand](https://github.com/JacobTheCoder19/Control-Computer-With-Hand)
-  - [UNAVAILABLE (IN PROGRESS)](https://)
+  - [Control Mouse With Eye](https://)
   - [UNAVAILABLE (IN PROGRESS)](https://githu)
 - <b>Java Projects</b>
   - [To-do list Application](https://github.com/JacobTheCoder19/ToDoListInJava/tree/main)
