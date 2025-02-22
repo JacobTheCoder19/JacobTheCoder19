@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Control Your Computer with hand - Python Application that uses AI hand tracking</b>
-  - [Control Computer With Hand](https://github.com/JacobTheCoder19/Control-Computer-With-Hand) 
-- <b>C++ Projects</b>
-  - [ UNAVAILABLE (IN PROGRESS)](https://)
+- <b>Python Projects</b>
+  - [Control Computer With Hand](https://github.com/JacobTheCoder19/Control-Computer-With-Hand)
   - [UNAVAILABLE (IN PROGRESS)](https://)
   - [UNAVAILABLE (IN PROGRESS)](https://)
   - [UNAVAILABLE (IN PROGRESS)](https://githu)
