@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Control Computer With Hand](https://github.com/JacobTheCoder19/Control-Computer-With-Hand)
   - [UNAVAILABLE (IN PROGRESS)](https://)
+  - [Control Computer With Hand](https://github.com/JacobTheCoder19/Control-Computer-With-Hand)
   - [UNAVAILABLE (IN PROGRESS)](https://)
   - [UNAVAILABLE (IN PROGRESS)](https://githu)
 - <b>Java Projects</b>
