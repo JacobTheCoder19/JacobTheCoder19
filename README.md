@@ -13,6 +13,7 @@
   - [Digital Assistant With GUI](https://github.com/JacobTheCoder19/Digital-assistant-written-in-Java)
 - <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
   - [Mock Fitness Website](https://github.com/JacobTheCoder19/Fitness-Website/tree/main)
+  - [Grandma's Retirement Website](https://github.com/JacobTheCoder19/GrandmasRetirementWebsite/tree/main?tab=readme-ov-file)
 
 <h2>🤖 Robotic inventions</h2>
 
