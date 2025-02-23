@@ -12,7 +12,7 @@
   - [Birthday Guesser](https://github.com/JacobTheCoder19/Birthday_Guesser)
   - [Digital Assistant With GUI](https://github.com/JacobTheCoder19/Digital-assistant-written-in-Java)
 - <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
-  - [ UNAVAILABLE (IN PROGRESS)](https://)
+  - [Mock Fitness Website](https://github.com/JacobTheCoder19/Fitness-Website/tree/main)
 
 <h2>🤖 Robotic inventions</h2>
 
