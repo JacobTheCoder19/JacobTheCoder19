@@ -19,7 +19,7 @@
 
 - [Control Blinds With Alexa](https://github.com/JacobTheCoder19/ControlBlindsUsingAlexa)
 - [Radio Device With Bluetooth Capabilities](https://github.com/JacobTheCoder19/Portable-Bluetooth-Radio/tree/main)
-- [ UNAVAILABLE (IN PROGRESS)](https://)
+- [Terminator Skull Project](https://github.com/JacobTheCoder19/Terminator-Project/tree/main)
 
 <h2> 😎 Connect with me:</h2>
 
