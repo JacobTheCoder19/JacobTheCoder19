@@ -20,8 +20,6 @@
 - [Control Blinds With Alexa](https://github.com/JacobTheCoder19/ControlBlindsUsingAlexa)
 - [ UNAVAILABLE (IN PROGRESS)](https://)
 - [ UNAVAILABLE (IN PROGRESS)](https://)
-- [ UNAVAILABLE (IN PROGRESS)](https://)
-- [ UNAVAILABLE (IN PROGRESS)](https://)
 
 <h2> 😎 Connect with me:</h2>
 
