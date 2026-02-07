@@ -14,7 +14,6 @@
 - <b>Websites (HTML,CSS,JAVASCRIPT,JQUERY)</b>
   - [Mock Fitness Website](https://github.com/JacobTheCoder19/Fitness-Website/tree/main)
   - [My Christmas List Website](https://github.com/JacobTheCoder19/JacobsChristmasListWebsite24)
-  - [Grandma's Retirement Website](https://github.com/JacobTheCoder19/GrandmasRetirementWebsite/tree/main?tab=readme-ov-file)
 
 
 <h2>🤖 Robotic inventions</h2>
