@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jacob Graham! <br/><i>Robot Technician, Programmer, and Inventor</i></h1>
+<h1>Hello, I'm Jacob Graham! <br/><i>Robot Technician, IT Coordinator, and Programmer</i></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
