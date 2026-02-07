@@ -16,7 +16,7 @@
   - [My Christmas List Website](https://github.com/JacobTheCoder19/JacobsChristmasListWebsite24)
 
 
-<h2>🤖 Robotic inventions</h2>
+<h2>🤖 Robotic Creations</h2>
 
 - [Control Blinds With Alexa](https://github.com/JacobTheCoder19/ControlBlindsUsingAlexa)
 - [Radio Device With Bluetooth Capabilities](https://github.com/JacobTheCoder19/Portable-Bluetooth-Radio/tree/main)
