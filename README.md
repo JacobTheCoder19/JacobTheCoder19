@@ -19,8 +19,8 @@
 <h2>🤖 Robotic Creations</h2>
 
 - [Control Blinds With Alexa](https://github.com/JacobTheCoder19/ControlBlindsUsingAlexa)
+- [VR Telepresence Robot](https://github.com/JacobTheCoder19/VR-Telepresence-Robot)
 - [Radio Device With Bluetooth Capabilities](https://github.com/JacobTheCoder19/Portable-Bluetooth-Radio/tree/main)
-- [Terminator Skull Project](https://github.com/JacobTheCoder19/Terminator-Project/tree/main)
 
 <h2> 😎 Connect with me:</h2>
 
